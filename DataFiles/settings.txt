@@ -1,0 +1,4 @@
+delimiter=,
+train=iris.data
+trainTargetColumn=4
+test=iris.test
